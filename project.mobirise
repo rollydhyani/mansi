@@ -353,7 +353,7 @@
             "images": [
               {
                 "alt": "",
-                "tags": "Creative, Happiness",
+                "tags": "Happy",
                 "playVideo": false,
                 "videoUrl": "https://www.youtube.com/watch?v=uNCr7NdOJgw",
                 "videoPreview": "@THEME_PATH@/components/_images/gallery/preview.jpg",
@@ -364,18 +364,18 @@
               },
               {
                 "alt": "",
-                "tags": "Awesome, Bliss",
+                "tags": "Yoga, Happy, Blissful",
                 "playVideo": false,
                 "videoUrl": "https://www.youtube.com/watch?v=uNCr7NdOJgw",
                 "videoPreview": "@THEME_PATH@/components/_images/gallery/preview.jpg",
                 "thumb": "@PROJECT_PATH@/assets/images/mbr-3-1620x1080-800x534.jpg",
                 "image": "@PROJECT_PATH@/assets/images/mbr-3-1620x1080.jpg",
                 "caption": "Type caption here",
-                "active": false
+                "active": true
               },
               {
                 "alt": "",
-                "tags": "Yoga, Happiness, Health, Bliss",
+                "tags": "Awesome, Blissful, Yoga",
                 "playVideo": false,
                 "videoUrl": "https://www.youtube.com/watch?v=uNCr7NdOJgw",
                 "videoPreview": "@THEME_PATH@/components/_images/gallery/preview.jpg",
@@ -386,7 +386,7 @@
               },
               {
                 "alt": "",
-                "tags": "Happiness, Bliss",
+                "tags": "Happy, Blissful",
                 "playVideo": false,
                 "videoUrl": "https://www.youtube.com/watch?v=uNCr7NdOJgw",
                 "videoPreview": "@THEME_PATH@/components/_images/gallery/preview.jpg",
@@ -397,18 +397,18 @@
               },
               {
                 "alt": "",
-                "tags": "Happiness, Nature",
+                "tags": "Happy, Blissful",
                 "playVideo": false,
                 "videoUrl": "https://www.youtube.com/watch?v=uNCr7NdOJgw",
                 "videoPreview": "@THEME_PATH@/components/_images/gallery/preview.jpg",
                 "thumb": "@PROJECT_PATH@/assets/images/mbr-2-720x1080-720x536.jpg",
                 "image": "@PROJECT_PATH@/assets/images/mbr-2-720x1080.jpg",
                 "caption": "Type caption here",
-                "active": true
+                "active": false
               },
               {
                 "alt": "",
-                "tags": "Beauty, Awesome, Energy",
+                "tags": "Happy, Natural",
                 "playVideo": false,
                 "videoUrl": "https://www.youtube.com/watch?v=uNCr7NdOJgw",
                 "videoPreview": "@THEME_PATH@/components/_images/gallery/preview.jpg",
@@ -419,7 +419,7 @@
               },
               {
                 "alt": "",
-                "tags": "Beauty, Nature, Bliss ",
+                "tags": "Beautiful, Awesome",
                 "playVideo": false,
                 "videoUrl": "https://www.youtube.com/watch?v=uNCr7NdOJgw",
                 "videoPreview": "@THEME_PATH@/components/_images/gallery/preview.jpg",
@@ -430,7 +430,7 @@
               },
               {
                 "alt": "",
-                "tags": "Nature, Beautiful",
+                "tags": "Natural, Beautiful",
                 "playVideo": false,
                 "videoUrl": "https://www.youtube.com/watch?v=uNCr7NdOJgw",
                 "videoPreview": "@THEME_PATH@/components/_images/gallery/preview.jpg",
