@@ -8,7 +8,7 @@
       "styling": {
         "primaryColor": "#d14841",
         "secondaryColor": "#bfcecb",
-        "successColor": "#90a878",
+        "successColor": "#faaf40",
         "infoColor": "#7e9b9f",
         "warningColor": "#1c8e78",
         "dangerColor": "#f28281",
@@ -24,7 +24,10 @@
         "#6214a4",
         "#a07e49",
         "#1c8e78",
-        "#6f8f89"
+        "#6f8f89",
+        "#1c022e",
+        "#2e0c46",
+        "#321b43"
       ]
     },
     "versionFirst": "3.12.1",
@@ -58,13 +61,13 @@
               "font-size": "18px"
             },
             ".navbar-toggler": {
-              "color": "#6f8f89"
+              "color": "#efefef"
             },
             ".close-icon::before, .close-icon::after": {
-              "background-color": "#6f8f89"
+              "background-color": "#efefef"
             },
             ".link, .dropdown-item": {
-              "color": "#6f8f89"
+              "color": "#efefef"
             },
             ".link": {
               "font-size": "1.05rem"
@@ -85,7 +88,7 @@
               "background": "#282828"
             },
             ".bg-color.transparent .link": {
-              "color": "#6f8f89",
+              "color": "#efefef",
               "transition": "none"
             },
             ".bg-color.transparent.opened .link": {
@@ -113,7 +116,7 @@
             "bgColor": "#282828",
             "fontSize": "1.05",
             "fontName": {},
-            "fontColor": "#6f8f89",
+            "fontColor": "#efefef",
             "fontHoverColor": "@primaryColor"
           },
           "logo": {
@@ -135,7 +138,7 @@
               "color": "#faaf40"
             }
           },
-          "brand": "<a class=\"navbar-caption text-warning\" data-app-btn=\"true\" data-app-selector=\".navbar-caption\" href=\"#top\" data-app-placeholder=\"Type Brand Name\" data-toolbar=\"-mbrBtnMove,-mbrBtnAdd,-mbrBtnRemove,mbrColor\">MANSI'S YOGA</a>",
+          "brand": "<a class=\"navbar-caption text-success\" data-app-btn=\"true\" data-app-selector=\".navbar-caption\" href=\"#top\" data-app-placeholder=\"Type Brand Name\" data-toolbar=\"-mbrBtnMove,-mbrBtnAdd,-mbrBtnRemove,mbrColor\">MANSI'S YOGA</a>",
           "items": "<li class=\"nav-item\"><a data-app-btn=\"true\" class=\"nav-link link\" href=\"index.html#msg-box4-5\">OVERVIEW</a></li><li class=\"nav-item dropdown\"><a data-app-btn=\"true\" class=\"nav-link link\" href=\"index.html#features3-6\" aria-expanded=\"false\">FEATURES</a></li><li class=\"nav-item dropdown\"><a data-app-btn=\"true\" class=\"nav-link link\" href=\"index.html#gallery1-2\" aria-expanded=\"false\">GALLERY</a></li><li class=\"nav-item nav-btn\"><a data-app-btn=\"true\" data-button=\"\" data-app-selector=\".btn\" class=\"nav-link btn btn-white btn-white-outline\" href=\"https://mobirise.com/\">DOWNLOAD</a></li>"
         },
         {
@@ -151,7 +154,7 @@
             "showArrow": true,
             "contentAlign": "center",
             "bgImageRadio": true,
-            "bgImage": "@PROJECT_PATH@/assets/images/mbr-1618x1080.jpg",
+            "bgImage": "@PROJECT_PATH@/assets/images/mbr-1920x1080.jpg",
             "parallax": true,
             "bgColorRadio": false,
             "bgColor": "#ffffff",
@@ -160,18 +163,18 @@
               "url": "https://www.youtube.com/watch?v=uNCr7NdOJgw"
             },
             "overlay": true,
-            "overlayColor": "#c1c1c1",
-            "overlayOpacity": "0.1"
+            "overlayColor": "#321b43",
+            "overlayOpacity": "0.3"
           },
           "title": "EXPERIENCE HOLISTIC YOGA",
           "text": "Lorem ipsum dolor sit amet, consectetur adipiscing elit. Integer fringilla tortor eget elit elementum, nec volutpat orci aliquam. Maecenas tincidunt purus condimentum, auctor ante quis, posuere lectus. Morbi aliquam volutpat elit eget ultricies. Nullam at dui quis magna congue maximus. Nullam dapibus semper libero et scelerisque.<br>",
           "buttons": "<a data-app-btn=\"true\" class=\"btn btn-lg btn-primary\" href=\"https://mobirise.com\">DOWNLOAD FOR WINDOWS</a> <a data-app-btn=\"true\" class=\"btn btn-lg btn-white btn-white-outline\" href=\"https://mobirise.com\">DOWNLOAD FOR MAC</a>",
           "_styles": {
             ".mbr-section-title": {
-              "color": "#28324e"
+              "color": "#f7da64"
             },
             ".mbr-section-lead": {
-              "color": "#6f8f89"
+              "color": "#ffffff"
             }
           }
         },
