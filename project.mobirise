@@ -190,10 +190,10 @@
             "imageSize": 50,
             "paddingTop": "3",
             "paddingBottom": "3",
-            "bgImageRadio": false,
-            "bgImage": "@THEME_PATH@/components/_images/jumbotron.jpg",
+            "bgImageRadio": true,
+            "bgImage": "@PROJECT_PATH@/assets/images/mbr-1-1624x1080.jpg",
             "parallax": true,
-            "bgColorRadio": true,
+            "bgColorRadio": false,
             "bgColor": "#F2F2F2",
             "bgVideoRadio": false,
             "bgVideo": {
